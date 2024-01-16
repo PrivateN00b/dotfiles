@@ -1,0 +1,14 @@
+{
+  "config": [
+    "/home/privatenoob/.local/share/Steam/config"
+  ],
+  "external_drivers": [],
+  "jsonid": "vrpathreg",
+  "log": [
+    "/home/privatenoob/.local/share/Steam/logs"
+  ],
+  "runtime": [
+    "/home/privatenoob/.local/share/Steam/steamapps/common/SteamVR"
+  ],
+  "version": 1
+}
